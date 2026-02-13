@@ -49,7 +49,7 @@ A special mention goes to [XDA Developers](https://www.xda-developers.com/) as t
 
 ## Step's 
 
-1. [Obtaining Phone Specs](Obtaining-Phone-Specs.md)
+1. [Obtaining Phone Specs](Obtaining-Phone-Specs.md) Before a custom rom can be built, knowing the device hardware spec's is crucial in order to make the custom rom work.
 
 
 
