@@ -6,12 +6,12 @@ A custom ROM is a third-party, modified version of the Android operating system,
 
 The Samsung A05s is a cheap Android operating system phone, so to make life easier, this repo investigates what's involved with flashing different Android ROM's to see how they perform and how to build a custom rom because there are no custom rom's for this phone. This will mean an element of detective work will be involved, which can then be applied to other android phone's not currently supported by custom rom's.
 
-Whilst bugs can be found in stock rom's, bugs can also be found in custom rom's, which can make phone's more unstable especially when you start to use all its features.
+Whilst bugs can be found in the phone manufacturer's stock rom's, bugs can also be found in custom rom's, and both can make phone's more unstable especially when you start to use all its features and not just the most popular feature's.
 
 
 ### Why do this?
 
-Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion), provide more configurable privacy options, and to make the phone usable for longer so it doesnt become e-waste.
+Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion), to obtain more configurable privacy options, and to make the phone usable for longer so it doesnt become e-waste.
 
 ### Why not do this?
 
@@ -19,7 +19,7 @@ Banking app's in particular, may not work so you wont be able to access your ban
 
 ### How frequently will this repo be updated?
 
-Over the next few months. This is currently a work in process repo, to investigate whats involved in making a custom rom for educational purposes, nothing more.
+Over the next few months, the time of writing being Feb 2026. This is currently a work in process repo, mainly to investigate whats involved in making a custom rom for educational purposes, nothing more.
 
 ### Custom ROM's 
 
@@ -44,7 +44,16 @@ These are some of the off-the-shelf custom rom's which exist for Android phone's
 
 ### XDA Developer's 
 
-A special mention goes to [XDA Developers](https://www.xda-developers.com/) as the world's largest online community for mobile software development, founded in 2002! It serves as a premier forum and resource hub for Android enthusiasts, developers, and users to discuss, troubleshoot, and customize mobile devices, including rooting, custom ROMs, and hacks. Now owned by Valnet Inc., it also provides news, reviews, and coverage on broader technology topics like PC components and Ai.
+A special mention goes to [XDA Developers](https://www.xda-developers.com/) as the world's largest online community for mobile software development, founded in 2002! It serves as a premier forum and resource hub for Android enthusiasts, developers, and users to discuss, troubleshoot, and customize mobile devices, including rooting, custom ROMs, and hacks. Now owned by Valnet Inc., it also provides news, reviews, and coverage on broader technology topics like PC components and Ai. Its proved useful over the years.
+
+
+## Step's 
+
+1. [Obtaining Phone Specs](Obtaining-Phone-Specs.md)
+
+
+
+
 
 
 

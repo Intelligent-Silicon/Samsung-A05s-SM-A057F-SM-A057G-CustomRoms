@@ -1,0 +1,2 @@
+### Obtaining Phone Spec's
+
