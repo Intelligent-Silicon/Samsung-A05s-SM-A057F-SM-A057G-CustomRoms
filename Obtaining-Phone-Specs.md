@@ -18,7 +18,7 @@ Components: The root node (/) defines the machine model, while compatible string
 
 Usage: The bootloader loads the .dtb file into memory and passes it to the operating system during boot, allowing the kernel to know what hardware exists and how to configure it.
 
-Purpose: Primarily used in ARM, PowerPC, and other embedded systems to avoid hardcoding board-specific hardware details into the kernel binary.
+Purpose: Primarily used in Android, ARM, PowerPC, and other embedded systems to avoid hardcoding board-specific hardware details into the kernel binary.
 
 
 Android is built on a modified Linux kernel, making it a Linux-based operating system, but it's a highly customized stack with its own runtime (Android Run Time - ART) and frameworks, differing significantly from traditional desktop Linux distributions like Ubuntu or Fedora. While it uses the Linux kernel for core functions like memory management and process scheduling, Android's user-space environment (apps, system services, UI) is unique, using Java/Kotlin for apps rather than typical GNU tools. So in one sense Android is not a Linux distro like Ubuntu or Fedora but is a high-level OS that sits on a low-level OS, which is almost always Linux.

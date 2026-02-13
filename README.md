@@ -11,7 +11,19 @@ Whilst bugs can be found in the phone manufacturer's stock rom's, bugs can also 
 
 ### Why do this?
 
-Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion), to obtain more configurable privacy options, and to make the phone usable for longer so it doesnt become e-waste. Organisations may also want alternative options than what is offered by Android Fleet Managment software aka Mobile Device Management (MDM) or Enterprise Mobility Management (EMM) solutions.  
+Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion), to obtain more configurable privacy options, and to make the phone usable for longer so it doesnt become e-waste. Organisations may also want alternative options than what is offered by Android Fleet Managment software aka Mobile Device Management (MDM) or Enterprise Mobility Management (EMM) solutions.
+
+Key Aspects of Android Fleet Management
+
+Centralized Control: A single, browser-based interface allows IT managers to monitor status, push updates, and troubleshoot devices in real-time.
+
+Security & Compliance: Protects company data through enforced PINs, full device encryption, and remote locking/wiping of lost or stolen devices.
+
+Deployment Methods: Supports fast onboarding, including Google Zero-Touch Enrollment for out-of-the-box, automatic configuration.
+
+Device Modes: Manages various setups, including Work Profiles (BYOD), full device management (COBO), and dedicated kiosk modes for task workers.
+
+Application Management: Managed Google Play allows silent app installation and update  
 
 ### Why not do this?
 
