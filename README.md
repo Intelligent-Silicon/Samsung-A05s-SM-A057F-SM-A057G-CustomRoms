@@ -29,6 +29,10 @@ Application Management: Managed Google Play allows silent app installation and u
 
 Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the Android operating system and hardware, out of the way of your regular mobile phone user so they cant tamper with it.
 
+Bricking. Bricking a device is another way of saying killing a mobile phone. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options become non existant, like improved security and control of your data.
+
+You will encounter many steps which could cause your device to not work because of manufacturer quirks.
+
 ### How frequently will this repo be updated?
 
 Over the next few months, the time of writing being Feb 2026. This is currently a work in process repo, mainly to investigate whats involved in making a custom rom for educational purposes, nothing more.

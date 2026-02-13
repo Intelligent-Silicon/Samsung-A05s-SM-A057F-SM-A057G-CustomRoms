@@ -24,8 +24,23 @@ Purpose: Primarily used in Android, ARM, PowerPC, and other embedded systems to 
 Android is built on a modified Linux kernel, making it a Linux-based operating system, but it's a highly customized stack with its own runtime (Android Run Time - ART) and frameworks, differing significantly from traditional desktop Linux distributions like Ubuntu or Fedora. While it uses the Linux kernel for core functions like memory management and process scheduling, Android's user-space environment (apps, system services, UI) is unique, using Java/Kotlin for apps rather than typical GNU tools. So in one sense Android is not a Linux distro like Ubuntu or Fedora but is a high-level OS that sits on a low-level OS, which is almost always Linux.
 
 
+https://source.android.com/docs/core/architecture/dto
+
+https://source.android.com/docs/core/architecture/bootloader/dtb-images
 
 https://brandolamarck.substack.com/p/how-to-extract-and-decompile-the
 
 https://derpfest.org/build
+
+https://gist.github.com/mvaisakh/1a45694e33584592e8fae37fe29d757d
+
+https://xdaforums.com/t/how-to-convert-back-qualcomms-dtb-to-dts-file-extract-kernel-config.3221223/
+
+https://xdaforums.com/t/rom-wt88047-l-5-1-1-cyanogenmod-unofficial-builds.3200883/
+
+https://github.com/moetayuko/split-appended-dtb
+
+https://discourse.coreelec.org/t/extracting-dtb-file-from-a-running-android-os/1218
+
+https://wiki.postmarketos.org/wiki/Device_Tree_(dtb)
 
