@@ -15,7 +15,7 @@ Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinio
 
 ### Why not do this?
 
-Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the phone system, out of the way of your regular mobile phone user so they cant tamper with it.
+Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the Android operating system and hardware, out of the way of your regular mobile phone user so they cant tamper with it.
 
 ### How frequently will this repo be updated?
 
@@ -25,21 +25,21 @@ Over the next few months. This is currently a work in process repo, to investiga
 
 These are some of the off-the-shelf custom rom's which exist for Android phone's (not to be interpreted as endorsements), however none of these can be downloaded and used on a Samsung A05s, so the next steps will be to investigate whats involved in making these work on the Samsung A05s.
 
-    [LineageOS](https://lineageos.org/): The successor to CyanogenMod, it is considered the most stable, widely supported, and foundational ROM, providing a near-stock Android experience.
+[LineageOS](https://lineageos.org/): The successor to CyanogenMod, it is considered the most stable, widely supported, and foundational ROM, providing a near-stock Android experience.
 
-    [crDroid](https://crdroid.net/): Based on LineageOS, it is known for being highly stable while offering a huge variety of customization options for the UI and system.
+[crDroid](https://crdroid.net/): Based on LineageOS, it is known for being highly stable while offering a huge variety of customization options for the UI and system.
 
-    [PixelOS](https://pixelos.net/): A popular ROM that aims to bring the experience, features, and UI of a Google Pixel phone to other devices.
+[PixelOS](https://pixelos.net/): A popular ROM that aims to bring the experience, features, and UI of a Google Pixel phone to other devices.
 
-    [Evolution X](https://evolution-x.org/): Focuses on bringing Pixel-like functionality with extra customization, offering "Pixel-ism".
+[Evolution X](https://evolution-x.org/): Focuses on bringing Pixel-like functionality with extra customization, offering "Pixel-ism".
 
-    [GrapheneOS](https://grapheneos.org/): The gold standard for security and privacy, focusing on hardening the Android OS (best for Pixel devices).
+[GrapheneOS](https://grapheneos.org/): The gold standard for security and privacy, focusing on hardening the Android OS (best for Pixel devices).
 
-    [Project Infinity X](https://projectinfinity-x.com/): Recognized for advanced, next-level customization and modern Android updates.
+[Project Infinity X](https://projectinfinity-x.com/): Recognized for advanced, next-level customization and modern Android updates.
 
-    [Derpfest](https://derpfest.org/) & [AlphaDroid](https://alphadroid.org): Popular options known for being fast, stable, and offering extensive user interface tweaks.
+[Derpfest](https://derpfest.org/) & [AlphaDroid](https://alphadroid.org): Popular options known for being fast, stable, and offering extensive user interface tweaks.
 
-    [Paranoid Android](https://paranoidandroid.co/): A historically significant, refined ROM that focuses on design and unique feature
+[Paranoid Android](https://paranoidandroid.co/): A historically significant, refined ROM that focuses on design and unique feature
 
 
 
