@@ -8,7 +8,7 @@ A device tree is a hierarchical data structure (a tree of nodes and properties) 
 
 The Device Manager in Windows would be considered a Device Tree.
 
-Key details about device trees:
+Key details about Linux / Android device trees:
 
 Structure & Format: Represented in text files as Device Tree Source (.dts) or included files (.dtsi), then compiled into a binary Device Tree Blob (.dtb).
 
