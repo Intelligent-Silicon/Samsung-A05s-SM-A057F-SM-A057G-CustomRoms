@@ -4,7 +4,9 @@ Whatever Android Phone you choose to flash (or install on the chip) with a custo
 
 ## Device tree
 
-A device tree is a hierarchical data structure (a tree of nodes and properties) used in operating systems, particularly Linux, to describe physical hardware components—such as CPU, memory, and peripherals—that cannot be automatically detected at boot. It decouples hardware description from the kernel, enabling the same kernel to support diverse embedded hardware. The device manager in Windows would be considered a Device Tree.
+A device tree is a hierarchical data structure (a tree of nodes and properties) used in operating systems, particularly Linux, to describe physical hardware components—such as CPU, memory, and peripherals—that cannot be automatically detected at boot. It decouples hardware description from the kernel, enabling the same kernel to support diverse embedded hardware. 
+
+The Device Manager in Windows would be considered a Device Tree.
 
 Key details about device trees:
 
