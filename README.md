@@ -23,7 +23,7 @@ Over the next few months. This is currently a work in process repo, to investiga
 
 ### Custom ROM's 
 
-These are some of the off-the-shelf custom rom's which exist for Android phone's (not to be interpreted as endorsements), however none of these can be downloaded and used on a Samsung A05s, so the next steps will be to investigate whats involved in making these work on the Samsung A05s.
+These are some of the off-the-shelf custom rom's which exist for Android phone's (not to be interpreted as endorsements), however none of these can be downloaded and used on a Samsung A05s, so the next steps will be to investigate whats involved in making these work on the Samsung A05s. These custom rom's were current as at Feb 2026.
 
 [LineageOS](https://lineageos.org/): The successor to CyanogenMod, it is considered the most stable, widely supported, and foundational ROM, providing a near-stock Android experience.
 
@@ -40,6 +40,11 @@ These are some of the off-the-shelf custom rom's which exist for Android phone's
 [Derpfest](https://derpfest.org/) & [AlphaDroid](https://alphadroid.org): Popular options known for being fast, stable, and offering extensive user interface tweaks.
 
 [Paranoid Android](https://paranoidandroid.co/): A historically significant, refined ROM that focuses on design and unique feature
+
+
+### XDA Developer's 
+
+A special mention goes to [XDA Developers](https://www.xda-developers.com/) as the world's largest online community for mobile software development, founded in 2002! It serves as a premier forum and resource hub for Android enthusiasts, developers, and users to discuss, troubleshoot, and customize mobile devices, including rooting, custom ROMs, and hacks. Now owned by Valnet Inc., it also provides news, reviews, and coverage on broader technology topics like PC components and Ai.
 
 
 
