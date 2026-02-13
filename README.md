@@ -4,18 +4,18 @@
 
 A custom ROM is a third-party, modified version of the Android operating system, built from [Android Open Source Project (AOSP)](https://source.android.com/) code to replace a device's stock software. Developed by 3rd Party's, they offer increased customization, sometimes better performance, fewer bloatware apps, and newer Android versions for older devices. 
 
-The Samsung A05s is an Android operating system phone, so to make life easier, this repo investigates what's involved with flashing different Android ROM's to see how they perform and how to build a custom rom because there are no custom rom's for this phone. This will mean an element of detective work will be involved. 
+The Samsung A05s is a cheap Android operating system phone, so to make life easier, this repo investigates what's involved with flashing different Android ROM's to see how they perform and how to build a custom rom because there are no custom rom's for this phone. This will mean an element of detective work will be involved. 
 
 Whilst bugs can be found in stock rom's, bugs can also be found in custom rom's, which can make phone's more unstable especially when you start to use all its features.
 
 
 ### Why do this?
 
-Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion) and to make the phone usable for longer so it doesnt become e-waste.
+Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion), provide more configurable privacy options, and to make the phone usable for longer so it doesnt become e-waste.
 
 ### Why not do this?
 
-Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the phone system out of the way of your regular mobile phone user.
+Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the phone system, out of the way of your regular mobile phone user so they cant tamper with it.
 
 ### How frequently will this repo be updated?
 
@@ -23,10 +23,25 @@ Over the next few months. This is currently a work in process repo, to investiga
 
 ### Custom ROM's 
 
-These are some of the off-the-shelf custom rom's which exist for Android phone's, however none of these can be downloaded and used on a Samsung A05s, so the next steps will investigate whats involved in making these work on the Samsung A05s.
+These are some of the off-the-shelf custom rom's which exist for Android phone's (not to be interpreted as endorsements), however none of these can be downloaded and used on a Samsung A05s, so the next steps will be to investigate whats involved in making these work on the Samsung A05s.
 
-LineageOS
-GrapheneOS
+    [LineageOS](https://lineageos.org/): The successor to CyanogenMod, it is considered the most stable, widely supported, and foundational ROM, providing a near-stock Android experience.
+
+    [crDroid](https://crdroid.net/): Based on LineageOS, it is known for being highly stable while offering a huge variety of customization options for the UI and system.
+
+    [PixelOS](https://pixelos.net/): A popular ROM that aims to bring the experience, features, and UI of a Google Pixel phone to other devices.
+
+    [Evolution X](https://evolution-x.org/): Focuses on bringing Pixel-like functionality with extra customization, offering "Pixel-ism".
+
+    [GrapheneOS](https://grapheneos.org/): The gold standard for security and privacy, focusing on hardening the Android OS (best for Pixel devices).
+
+    [Project Infinity X](https://projectinfinity-x.com/): Recognized for advanced, next-level customization and modern Android updates.
+
+    [Derpfest](https://derpfest.org/) & [AlphaDroid](https://alphadroid.org): Popular options known for being fast, stable, and offering extensive user interface tweaks.
+
+    [Paranoid Android](https://paranoidandroid.co/): A historically significant, refined ROM that focuses on design and unique feature
+
+
 
 
 
