@@ -11,7 +11,7 @@ Whilst bugs can be found in the phone manufacturer's stock rom's, bugs can also 
 
 ### Why do this?
 
-Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion), to obtain more configurable privacy options, and to make the phone usable for longer so it doesnt become e-waste.
+Bug's in Samsungs OneUI and app's, a clunky not very appealing interface (opinion), to obtain more configurable privacy options, and to make the phone usable for longer so it doesnt become e-waste. Organisations may also want alternative options than what is offered by Android Fleet Managment software aka Mobile Device Management (MDM) or Enterprise Mobility Management (EMM) solutions.  
 
 ### Why not do this?
 
