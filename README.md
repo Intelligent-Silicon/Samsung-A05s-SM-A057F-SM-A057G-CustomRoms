@@ -25,6 +25,8 @@ Device Modes: Manages various setups, including Work Profiles (BYOD), full devic
 
 Application Management: Managed Google Play allows silent app installation and update  
 
+The knowledge gained here can also be used to make custom rom's for smart TV's like LG's WebOS tv's, which can handy for adding features you require if you have multiple LG's in the building or removing features which are not required.
+
 ### Why not do this?
 
 Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the Android operating system and hardware, out of the way of your regular mobile phone user so they cant tamper with it.
