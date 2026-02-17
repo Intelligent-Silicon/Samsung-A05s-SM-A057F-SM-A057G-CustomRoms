@@ -44,3 +44,14 @@ https://discourse.coreelec.org/t/extracting-dtb-file-from-a-running-android-os/1
 
 https://wiki.postmarketos.org/wiki/Device_Tree_(dtb)
 
+https://blog.tomaszdunia.pl/grapheneos-eng/
+
+https://news.ycombinator.com/item?id=47045612
+
+https://grapheneos.org/faq#supported-devices
+
+Many other devices are supported by GrapheneOS at a source level, and it can be built for them without modifications to the existing GrapheneOS source tree. Device support repositories for the Android Open Source Project can simply be dropped into the source tree, with at most minor modifications within them to support GrapheneOS. In most cases, substantial work beyond that will be needed to bring the support up to the same standards. For most devices, the hardware and firmware will prevent providing a reasonably secure device, regardless of the work put into device support.
+
+GrapheneOS does not support being used as a Generic System Image, which only exists for development/testing purposes and isn't usable for GrapheneOS since we require kernel changes and the userspace part of the OS cannot run on top of a kernel without the required functionality. 
+
+See more online
