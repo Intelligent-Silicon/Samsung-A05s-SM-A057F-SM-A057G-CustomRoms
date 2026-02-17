@@ -25,13 +25,13 @@ Device Modes: Manages various setups, including Work Profiles (BYOD), full devic
 
 Application Management: Managed Google Play allows silent app installation and update  
 
-The knowledge gained here can also be used to make custom rom's for smart TV's like LG's WebOS tv's, TalkTalk TV Boxes, Vehicle (Infotainment) systems, and other device's which use Linux as its base OS. 
+The knowledge gained here can also be used to make custom rom's for smart TV's like LG's WebOS tv's, TalkTalk TV Boxes, Vehicle (Infotainment) systems, Drones, Control system and other device's which use Linux as its base OS. 
 
 This can be handy for adding features you require if you have multiple device's in the building to add features or to simply remove features which are not required, like the one described here by Google on Hard Braking Events for Raod Safety : https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/. In this instance, its not so much the data thats the issue, its the apparant inability to keep users informed about what is being logged. 
 
 Once data is logged (whatever that data is), it can be interpreted in many ways by "scientists", and Hard Braking Event's is just one way this data can be used. If the vehicle is logging the driver's braking habits, it can also give away infomation thats also typically seen with dashcam users, especially the one's who upload data to Youtube channels. 
 
-More and more, viewers can see DashCam user's being highly passive aggressive when they wouldnt otherwise have been, a classic example of the saying "acting up for the camera", and also engaging in deliberate late braking to the point of deliberately crashing as if they were Andy Pipkin from Little Britain! The data uploaded on to Youtube and/or handed over to the insurance company can then be used by them to put markers on driver's which can then affect their premiums. In todays day and age, data sharing is more prevalent in disengenious ways than is commonly reported, with the state having a head start at interpreting esoteric data sources with [Signals Intelligence](https://en.wikipedia.org/wiki/Signals_intelligence) via the military. Sure its tells a more accurate picture, but the data collection is also altering people's behaviour, and that's not always for the best! This also demonstrates an argument against the saying, if you have nothing to hide, you have nothing to fear.
+More and more, viewers can see DashCam user's being highly passive aggressive when they wouldnt otherwise have been, a classic example of the saying "acting up for the camera", and also engaging in deliberate late braking to the point of deliberately crashing as if they were Andy Pipkin from Little Britain! The data uploaded on to Youtube and/or handed over to the insurance company can then be used by them to put markers on driver's which can then affect their premiums. In todays day and age, data sharing is more prevalent in disengenious ways than is commonly reported, with the state having a head start at interpreting esoteric data sources with [Signals Intelligence](https://en.wikipedia.org/wiki/Signals_intelligence) via the military. Sure its tells a more accurate picture, but the data collection is also altering people's behaviour, and that's not always for the best! This also demonstrates an argument against the saying, if you have nothing to hide, you have nothing to fear. https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
 
 ### Why not do this?
 
@@ -121,6 +121,32 @@ https://grapheneos.org/faq#supported-devices
 GrapheneOS does not support being used as a Generic System Image, which only exists for development/testing purposes and isn't usable for GrapheneOS since we require kernel changes and the userspace part of the OS cannot run on top of a kernel without the required functionality. 
 
 See more on the link above"
+
+
+https://news.ycombinator.com/item?id=47035560
+
+https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
+
+
+https://news.ycombinator.com/item?id=47014002 
+
+https://dbg.re/posts/car-file-format/
+
+https://news.ycombinator.com/item?id=47014460
+
+https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf
+
+https://news.ycombinator.com/item?id=47011548
+
+https://github.com/NationalSecurityAgency/ghidra
+
+
+https://news.ycombinator.com/item?id=47025085
+
+https://github.com/pocketblue/pocketblue
+
+https://ooh.directory/blogs/technology/
+
 
 
 
