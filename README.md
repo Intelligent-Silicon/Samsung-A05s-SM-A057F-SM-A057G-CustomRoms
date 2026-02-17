@@ -35,11 +35,15 @@ More and more, viewers can see DashCam user's being highly passive aggressive wh
 
 ### Why not do this?
 
-Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the Android operating system and hardware, out of the way of your regular mobile phone user so they cant tamper with it. There's a [website](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) dedicated to listing the banking app's around the world which works with GrapheneOS, one of the custom ROM's mentioned below.
+Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the Android operating system and hardware, out of the way of your regular mobile phone user so they cant tamper with it. Here's a [website](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) dedicated to listing the banking app's around the world which works with GrapheneOS, one of the custom ROM's mentioned below.
 
-Bricking. Bricking a device is another way of saying killing a mobile phone. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options become non existant, like improved security and control of your data.
+### Bricking. 
 
-You will encounter many steps which could cause your device to not work because of manufacturer quirks.
+Bricking a device is another way of saying killing a mobile phone. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options become non existant, like improved security and control of your data.
+
+You will encounter many steps which could cause your device to brick because of manufacturer quirks. When a device is bricked, there's also two form's, one is called a soft brick, which refer's to software/firmware causing the device to not work, and a hard brick which refer's to hardware components not working which typically results in the component having to be replaced. 
+
+A soft brick is more easily recoverable with the right software, a hardware brick will involve specialist tools and less specialist tools like a soldering iron.
 
 ### How frequently will this repo be updated?
 
