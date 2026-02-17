@@ -87,7 +87,7 @@ A special mention goes to [XDA Developers](https://www.xda-developers.com/) as t
 
 The following links look interesting and hold the possibility of providing so useful instructions, guidance or hint's that could prove useful in the task of flashing this Samsung A05s with custom ROM's.
 
-They in way are an endorsement, but it show's how much documentation has to be looked through to achieve the objective, if the objective is even attainable.
+It show's how much documentation has to be perused to achieve the objective, if the objective is even attainable.
 
 
 https://source.android.com/docs/core/architecture/dto
