@@ -39,7 +39,7 @@ Banking app's in particular, may not work so you wont be able to access your ban
 
 ### Bricking. 
 
-Bricking a device is another way of saying killing a mobile phone. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options and choice's become non existant leading to a market place thats close to being a monopoly. So have the US tech giants turned the world into a giant global Soviet Union with the lack of choice?
+Bricking a device is another way of saying killing a mobile phone. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options and choice's become non existant leading to a market place thats close to being a monopoly. So have the US tech giants turned the world into a giant global Soviet Union with the lack of choice? That is after all Globalisation.
 
 You will encounter many steps which could cause your device to brick because of manufacturer quirks. When a device is bricked, there's also two form's, one is called a soft brick, which refer's to software/firmware causing the device to not work, and a hard brick which refer's to hardware components not working which typically results in the component having to be replaced. 
 
