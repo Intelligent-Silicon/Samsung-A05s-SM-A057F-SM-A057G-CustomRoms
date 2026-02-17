@@ -17,7 +17,7 @@ Key Aspects of Android Fleet Management
 
 Centralized Control: A single, browser-based interface allows IT managers to monitor status, push updates, and troubleshoot devices in real-time.
 
-Security & Compliance: Protects company data through enforced PINs, full device encryption, and remote locking/wiping of lost or stolen devices.
+Security & Compliance: Protects company data through enforced PINs, full device encryption, and remote locking/wiping of lost or stolen devices, if instructions can be sent to the device.
 
 Deployment Methods: Supports fast onboarding, including Google Zero-Touch Enrollment for out-of-the-box, automatic configuration.
 
@@ -25,7 +25,13 @@ Device Modes: Manages various setups, including Work Profiles (BYOD), full devic
 
 Application Management: Managed Google Play allows silent app installation and update  
 
-The knowledge gained here can also be used to make custom rom's for smart TV's like LG's WebOS tv's, TalkTalk TV Boxes, Vehicle (Infotainment) systems, and other device's which use Linux as its base OS. This can be handy for adding features you require if you have multiple device's in the building to add features or to simply remove features which are not required, like the one described here by Google on Hard Braking Events for Raod Safety : https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/. In this instance, its not so much the data thats the issue, its the apparant inability to keep users informed about what is being logged. Once data is logged, it can be interpreted in many ways, and Hard Braking Event's is just one way this data can be used. If the vehicle is logging the driver's braking habits, it can also give away infomation thats also typically seen with dashcam users, especially the one's who upload data to Youtube channels. More and more, viewers can see DashCam user's being highly passive aggressive when they wouldnt otherwise have been, a classic example of the saying "acting up for the camera" and also late braking. The data can then be used by Insurance Companies to put markers on driver's which can then affect their premiums. Sure its tells a more accurate picture, but the data collection is also altering people's behaviour, and not always for the best!
+The knowledge gained here can also be used to make custom rom's for smart TV's like LG's WebOS tv's, TalkTalk TV Boxes, Vehicle (Infotainment) systems, and other device's which use Linux as its base OS. 
+
+This can be handy for adding features you require if you have multiple device's in the building to add features or to simply remove features which are not required, like the one described here by Google on Hard Braking Events for Raod Safety : https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/. In this instance, its not so much the data thats the issue, its the apparant inability to keep users informed about what is being logged. 
+
+Once data is logged (whatever that data is), it can be interpreted in many ways by "scientists", and Hard Braking Event's is just one way this data can be used. If the vehicle is logging the driver's braking habits, it can also give away infomation thats also typically seen with dashcam users, especially the one's who upload data to Youtube channels. 
+
+More and more, viewers can see DashCam user's being highly passive aggressive when they wouldnt otherwise have been, a classic example of the saying "acting up for the camera", and also engaging in deliberate late braking to the point of deliberately crashing! The data uploaded on to Youtube can then be used by Insurance Companies to put markers on driver's which can then affect their premiums. Sure its tells a more accurate picture, but the data collection is also altering people's behaviour, and that's not always for the best!
 
 ### Why not do this?
 
