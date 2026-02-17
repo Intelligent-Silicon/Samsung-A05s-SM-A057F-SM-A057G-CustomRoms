@@ -29,7 +29,7 @@ The knowledge gained here can also be used to make custom rom's for smart TV's l
 
 ### Why not do this?
 
-Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the Android operating system and hardware, out of the way of your regular mobile phone user so they cant tamper with it. There's a website dedicated to listing the banking app's around the world which works with GrapheneOS, one of the custom ROM's mentioned below.
+Banking app's in particular, may not work so you wont be able to access your bank account's easily. They rely heavily on security measure's which go deep into the Android operating system and hardware, out of the way of your regular mobile phone user so they cant tamper with it. There's a [website](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) dedicated to listing the banking app's around the world which works with GrapheneOS, one of the custom ROM's mentioned below.
 
 Bricking. Bricking a device is another way of saying killing a mobile phone. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options become non existant, like improved security and control of your data.
 
