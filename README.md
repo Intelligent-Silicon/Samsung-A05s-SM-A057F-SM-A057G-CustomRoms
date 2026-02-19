@@ -25,7 +25,7 @@ Device Modes: Manages various setups, including Work Profiles (BYOD), full devic
 
 Application Management: Managed Google Play allows silent app installation and update  
 
-The knowledge gained here can also be used to make custom rom's for smart TV's like LG's WebOS tv's, TalkTalk TV Boxes, Vehicle (Infotainment) systems, Drones, Control system and other device's which use Linux as its base OS. 
+The knowledge gained here can also be used to make custom rom's for smart TV's like LG's WebOS tv's, Smart watches like AsteroidOS, Huawei (TalkTalk) TV Boxes, Vehicle (Infotainment) systems, Drones, Control system and other device's which use Linux as its base OS. 
 
 This can be handy for adding features you require if you have multiple device's in the building to add features or to simply remove features which are not required, like the one described here by Google on Hard Braking Events for Raod Safety : https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/. In this instance, its not so much the data thats the issue, its the apparant inability to keep users informed about what is being logged. 
 
@@ -39,7 +39,7 @@ Banking app's in particular, may not work so you wont be able to access your ban
 
 ### Bricking. 
 
-Bricking a device is another way of saying killing a mobile phone. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options and choice's become non existant leading to a market place thats close to being a monopoly. So have the US tech giants turned the world into a giant global Soviet Union with the lack of choice? That is after all Globalisation.
+Bricking a device is another way of saying killing a device like a mobile phone or smart watch. Manufacturer's use esoteric means to keep people away from installing custom rom's because it helps to cement their position in the market, as a result diverse options and choice's become non existant leading to a market place thats close to being a monopoly. So have the US tech giants turned the world into a giant global Soviet Union with the lack of choice? That is after all Globalisation.
 
 You will encounter many steps which could cause your device to brick because of manufacturer quirks. When a device is bricked, there's also two form's, one is called a soft brick, which refer's to software/firmware causing the device to not work, and a hard brick which refer's to hardware components not working which typically results in the component having to be replaced. 
 
