@@ -148,6 +148,15 @@ https://github.com/pocketblue/pocketblue
 https://ooh.directory/blogs/technology/
 
 
+https://asteroidos.org/news/2-0-release/index.html
+
+
+An example of pirating Harry Potter and the perils of archiving systems under the FBI spotlight?
+
+https://archive.is/D9vEN
+
+https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/
+
 
 
 
