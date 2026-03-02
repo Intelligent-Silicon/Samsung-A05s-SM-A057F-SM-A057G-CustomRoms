@@ -160,7 +160,9 @@ https://archive.is/D9vEN
 https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/
 
 
+https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/
 
+https://e.foundation/e-os/
 
 
 
