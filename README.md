@@ -122,6 +122,8 @@ GrapheneOS does not support being used as a Generic System Image, which only exi
 
 See more on the link above"
 
+https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/
+
 
 https://news.ycombinator.com/item?id=47035560
 
