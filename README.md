@@ -164,7 +164,9 @@ https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/
 
 https://e.foundation/e-os/
 
+https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html
 
+https://news.ycombinator.com/item?id=47269288
 
 
 
