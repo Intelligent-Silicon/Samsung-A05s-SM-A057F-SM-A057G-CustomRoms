@@ -169,4 +169,9 @@ https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-you
 https://news.ycombinator.com/item?id=47269288
 
 
+https://www.youtube.com/@ABusAndBeyond
 
+https://www.youtube.com/@Weretherussos/videos
+
+
+https://brave.com/blog/keep-android-open/
